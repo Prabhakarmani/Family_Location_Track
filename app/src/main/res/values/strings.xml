@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FamilyLocation</string>
+    <string name="sos">SOS</string>
+    <string name="guard">GUARD</string>
+    <string name="sos_messages">In case of Emergency, keep telling Family members to contact me</string>
+    <string name="guard_messages">guard message here</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="home">Home</string>
+    <string name="security">Security</string>
+    <string name="my_family">My Family</string>
+    <string name="calculate">Calculate</string>
+    <string name="open_screen">Open Screen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="guard_frag">Guard</string>
+    <string name="manish_prabhakar">Manish Prabhakar</string>
+    <string name="_90">90%</string>
+    <string name="map">Map</string>
+</resources>
